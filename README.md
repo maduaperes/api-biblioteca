@@ -73,7 +73,7 @@ api-biblioteca/
 Clone o repositório:
 
 ```bash id="a1b2c3"
-git clone https://github.com/seu-usuario/api-biblioteca.git
+git clone https://github.com/maduaperes/api-biblioteca.git
 ```
 
 Acesse a pasta do projeto:
@@ -138,7 +138,7 @@ npm start
 
 # Autor
 
-Projeto desenvolvido para fins de estudo e prática de desenvolvimento backend com Node.js.
+Projeto desenvolvido por Madu Peres para fins de estudo e prática de desenvolvimento backend com Node.js.
 
 ---
 
